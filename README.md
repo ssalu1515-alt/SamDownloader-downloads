@@ -21,6 +21,9 @@ Open the link on the phone, tap **Download**, open the file and allow **Install 
 |---|---|
 | iPhone / iPad with iOS 13 or newer (iPhone 6s / SE and newer) | [SamDownloader-iOS.ipa](https://github.com/ssalu1515-alt/SamDownloader-downloads/releases/latest/download/SamDownloader-iOS.ipa) |
 
+Version 1.1: same design as the Android app (Download, Accounts and Settings tabs), *Share → SamDownloader*
+from YouTube, Instagram, TikTok and Safari, Save to Photos, and a notification when a download finishes.
+
 Apple doesn't let iPhones install apps straight from a link. Install the .ipa with
 [AltStore](https://altstore.io) (*My Apps → +*) or [Sideloadly](https://sideloadly.io) and your
 Apple ID. With a free Apple ID, Apple requires a refresh every 7 days (AltStore does it automatically).
