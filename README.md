@@ -3,7 +3,9 @@
 *Developed by **MR SALLU***
 
 Paste (or share) a video link and download it in HD. Works with YouTube, Instagram, Facebook,
-TikTok, Snapchat, LinkedIn, X, Pinterest, Reddit, Vimeo and 1800+ more sites.
+TikTok, Snapchat, LinkedIn, X, Pinterest, Reddit, Vimeo, Telegram and 1800+ more sites.
+
+**New in 1.2:** Telegram videos that say "Please open Telegram to view this post" now download - log in once in **Accounts → Telegram** (QR code or phone number). Private channels you've joined work too.
 
 ## Android
 
@@ -21,7 +23,7 @@ Open the link on the phone, tap **Download**, open the file and allow **Install 
 |---|---|
 | iPhone / iPad with iOS 13 or newer (iPhone 6s / SE and newer) | [SamDownloader-iOS.ipa](https://github.com/ssalu1515-alt/SamDownloader-downloads/releases/latest/download/SamDownloader-iOS.ipa) |
 
-Version 1.1: same design as the Android app (Download, Accounts and Settings tabs), *Share → SamDownloader*
+Version 1.2 adds Telegram login. Same design as the Android app (Download, Accounts and Settings tabs), *Share → SamDownloader*
 from YouTube, Instagram, TikTok and Safari, Save to Photos, and a notification when a download finishes.
 
 Apple doesn't let iPhones install apps straight from a link. Install the .ipa with
