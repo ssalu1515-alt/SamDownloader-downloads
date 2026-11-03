@@ -1,6 +1,6 @@
 # SamDownloader – Downloads
 
-*Developed by **MR SALLU***
+*Developed by **SA Brothers***
 
 Paste (or share) a video link and download it in HD. Works with YouTube, Instagram, Facebook,
 TikTok, Snapchat, LinkedIn, X, Pinterest, Reddit, Vimeo, Telegram and 1800+ more sites.
