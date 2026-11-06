@@ -5,9 +5,10 @@
 Paste (or share) a video link and download it in HD. Works with YouTube, Instagram, Facebook,
 TikTok, Snapchat, LinkedIn, X, Pinterest, Reddit, Vimeo, Telegram and 1800+ more sites.
 
-**New in 1.2.2: automatic updates.** Install this version once; from then on the app tells you when a
-new version is out and installs it for you (Windows and Mac reopen by themselves, Android asks you to tap
-**Install**, iPhone opens this page).
+**New in 1.2.5: download history.** Everything you download is listed by date and time - deleted a video? Tap **Download again**.
+
+**Also new:** the iPhone link works after one scan (even after the computer restarts), SamDownloader can keep running in the tray / menu bar and start with the computer, and every app updates itself.
+
 
 ## Windows
 
